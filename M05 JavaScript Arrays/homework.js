@@ -6,7 +6,7 @@ function devolverPrimerElemento(array) {
    return array[0]
    
       
-   
+  ii 
 }
 
 function devolverUltimoElemento(array) {
